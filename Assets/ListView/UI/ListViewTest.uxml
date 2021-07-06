@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement>
+        <ui:ListView focusable="true" style="height: 100px;" />
+        <ui:Button text="Add" display-tooltip-when-elided="true" name="Button" />
+    </ui:VisualElement>
+</ui:UXML>
